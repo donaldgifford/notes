@@ -1,5 +1,20 @@
 ## Current Market Salary Ranges (Before Training)
 
+<!-- toc -->
+
+  * [5-Year Experience Profile](#5-year-experience-profile)
+- [Post-Training Salary Potential (After 6 weeks + 6-12 months experience)](#post-training-salary-potential-after-6-weeks--6-12-months-experience)
+  * [5-Year Profile → Senior Roles](#5-year-profile-%E2%86%92-senior-roles)
+- [Key Factors Driving the Increases](#key-factors-driving-the-increases)
+  * [For 5-Year Experience](#for-5-year-experience)
+- [Timeline for Salary Realization](#timeline-for-salary-realization)
+  * [Immediate (0-3 months post-training)](#immediate-0-3-months-post-training)
+  * [Short-term (6-12 months)](#short-term-6-12-months)
+  * [Medium-term (1-2 years)](#medium-term-1-2-years)
+- [Market Context & Timing](#market-context--timing)
+
+<!-- tocstop -->
+
 ### 5-Year Experience Profile
 
 *2 years Go, AWS experience, some K8s/Terraform*
@@ -36,7 +51,7 @@
 
 ## Key Factors Driving the Increases
 
-### For 5-Year Experience:
+### For 5-Year Experience
 
 1. **Platform Engineering Skills** - 25-35% premium over traditional backend roles
 2. **AI/ML Infrastructure** - 20-30% premium in current market
@@ -45,15 +60,15 @@
 
 ## Timeline for Salary Realization
 
-### Immediate (0-3 months post-training):
+### Immediate (0-3 months post-training)
 
 - **5-year profile:** +$15k - $25k (internal promotion or job switch)
 
-### Short-term (6-12 months):
+### Short-term (6-12 months)
 
 - **5-year profile:** +$30k - $45k (with demonstrated project success)
 
-### Medium-term (1-2 years):
+### Medium-term (1-2 years)
 
 - **5-year profile:** +$40k - $60k (senior role with AI/platform expertise)
 

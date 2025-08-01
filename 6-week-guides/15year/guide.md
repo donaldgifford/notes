@@ -1,5 +1,19 @@
 # 15 Year Guide
 
+<!-- toc -->
+
+- [1. Most Important Non-Coding Technologies for 2025](#1-most-important-non-coding-technologies-for-2025)
+- [2. Specific Language Focuses](#2-specific-language-focuses)
+- [3. Six-Week Learning Plan](#3-six-week-learning-plan)
+  * [Week 1: Foundation Setup](#week-1-foundation-setup)
+  * [Week 2: Golang Advanced + Platform Engineering](#week-2-golang-advanced--platform-engineering)
+  * [Week 3: Rust Fundamentals + Systems](#week-3-rust-fundamentals--systems)
+  * [Week 4: JavaScript/TypeScript + Modern Web APIs](#week-4-javascripttypescript--modern-web-apis)
+  * [Week 5: AI/ML Infrastructure Integration](#week-5-aiml-infrastructure-integration)
+  * [Week 6: Integration + Portfolio](#week-6-integration--portfolio)
+
+<!-- tocstop -->
+
 ## 1. Most Important Non-Coding Technologies for 2025
 
 **Platform Engineering & Developer Experience**

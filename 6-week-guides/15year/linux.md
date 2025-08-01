@@ -1,5 +1,30 @@
 # 6 week linux
 
+<!-- toc -->
+
+- [Updated Technology Learning Plans with Linux Focus](#updated-technology-learning-plans-with-linux-focus)
+  * [1. Most Important Non-Coding Technologies for 2025 (Updated)](#1-most-important-non-coding-technologies-for-2025-updated)
+    + [For 15-Year Experience Developer](#for-15-year-experience-developer)
+  * [2. Specific Language Focuses (Updated)](#2-specific-language-focuses-updated)
+    + [Golang (Enhanced with Systems Programming)](#golang-enhanced-with-systems-programming)
+    + [Rust (Systems Programming Focus)](#rust-systems-programming-focus)
+    + [JavaScript/TypeScript (Node.js Systems Integration)](#javascripttypescript-nodejs-systems-integration)
+  * [3. Updated Six-Week Learning Plan](#3-updated-six-week-learning-plan)
+    + [Week 1: Linux Fundamentals + Cloud-Native Foundation](#week-1-linux-fundamentals--cloud-native-foundation)
+    + [Week 2: Golang + Systems Programming](#week-2-golang--systems-programming)
+    + [Week 3: Rust Systems Programming](#week-3-rust-systems-programming)
+    + [Week 4: JavaScript/Node.js + Advanced Linux](#week-4-javascriptnodejs--advanced-linux)
+    + [Week 5: Platform Engineering + Advanced Linux](#week-5-platform-engineering--advanced-linux)
+    + [Week 6: Integration + Linux Infrastructure Management](#week-6-integration--linux-infrastructure-management)
+  * [4. Updated Home Lab Recommendations](#4-updated-home-lab-recommendations)
+    + [$100 Budget - “Linux Learning Lab”](#100-budget---linux-learning-lab)
+    + [$500 Budget - “Linux Systems Lab”](#500-budget---linux-systems-lab)
+    + [$1000 Budget - “Enterprise Linux Lab”](#1000-budget---enterprise-linux-lab)
+  * [5. Updated Salary Expectations](#5-updated-salary-expectations)
+    + [15-Year Experience + Advanced Linux](#15-year-experience--advanced-linux)
+
+<!-- tocstop -->
+
 ## Updated Technology Learning Plans with Linux Focus
 
 ### 1. Most Important Non-Coding Technologies for 2025 (Updated)
@@ -314,7 +339,7 @@ make
 
 ### 5. Updated Salary Expectations
 
-#### 15-Year Experience + Advanced Linux:
+#### 15-Year Experience + Advanced Linux
 
 **Current + Linux Systems Mastery:**
 

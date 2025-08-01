@@ -1,5 +1,71 @@
 # New Eng Path Guide
 
+<!-- toc -->
+
+- [6-Week Technical Transformation Plan with Learning Resources](#6-week-technical-transformation-plan-with-learning-resources)
+- [Week 1: Linux Fundamentals + Security Context](#week-1-linux-fundamentals--security-context)
+  * [Days 1-2: Linux Basics with Security Focus](#days-1-2-linux-basics-with-security-focus)
+  * [Days 3-4: System Administration + Monitoring](#days-3-4-system-administration--monitoring)
+  * [Days 5-7: Bash Scripting Fundamentals](#days-5-7-bash-scripting-fundamentals)
+- [Week 2: Python Programming for Infrastructure](#week-2-python-programming-for-infrastructure)
+  * [Days 1-2: Python Basics for SysAdmins](#days-1-2-python-basics-for-sysadmins)
+  * [Days 3-4: Python for System Administration](#days-3-4-python-for-system-administration)
+  * [Days 5-7: Python Security Tools](#days-5-7-python-security-tools)
+- [Week 3: AWS Cloud Fundamentals](#week-3-aws-cloud-fundamentals)
+  * [Days 1-2: AWS Core Services + Security](#days-1-2-aws-core-services--security)
+  * [Days 3-4: Infrastructure as Code + Automation](#days-3-4-infrastructure-as-code--automation)
+  * [Days 5-7: Monitoring and Compliance](#days-5-7-monitoring-and-compliance)
+- [Week 4: SQL and Database Security](#week-4-sql-and-database-security)
+  * [Days 1-2: SQL Fundamentals](#days-1-2-sql-fundamentals)
+  * [Days 3-4: Database Administration + Python Integration](#days-3-4-database-administration--python-integration)
+  * [Days 5-7: AWS RDS and Database Security](#days-5-7-aws-rds-and-database-security)
+- [Week 5: Go Programming for Infrastructure](#week-5-go-programming-for-infrastructure)
+  * [Days 1-2: Go Basics for Systems Programming](#days-1-2-go-basics-for-systems-programming)
+  * [Days 3-4: Go Web Services + Security](#days-3-4-go-web-services--security)
+  * [Days 5-7: Go + AWS Integration](#days-5-7-go--aws-integration)
+- [Week 6: Integration and Real-World Projects](#week-6-integration-and-real-world-projects)
+  * [Days 1-2: Complete Infrastructure Deployment](#days-1-2-complete-infrastructure-deployment)
+  * [Days 3-4: Monitoring and Alerting System](#days-3-4-monitoring-and-alerting-system)
+  * [Days 5-7: Portfolio and Documentation](#days-5-7-portfolio-and-documentation)
+- [Additional Free Resources](#additional-free-resources)
+  * [General DevOps Learning](#general-devops-learning)
+  * [Security-Focused DevOps](#security-focused-devops)
+  * [Practice Platforms](#practice-platforms)
+  * [Community Resources](#community-resources)
+  * [YouTube Channels](#youtube-channels)
+- [6-Week Technical Transformation Plan](#6-week-technical-transformation-plan)
+  * [Current Skill Assessment](#current-skill-assessment)
+- [Week 1: Linux Fundamentals + Security Context](#week-1-linux-fundamentals--security-context-1)
+  * [Days 1-2: Linux Basics with Security Focus](#days-1-2-linux-basics-with-security-focus-1)
+  * [Days 3-4: System Administration + Monitoring](#days-3-4-system-administration--monitoring-1)
+  * [Days 5-7: Bash Scripting Fundamentals](#days-5-7-bash-scripting-fundamentals-1)
+- [Week 2: Python Programming for Infrastructure](#week-2-python-programming-for-infrastructure-1)
+  * [Days 1-2: Python Basics for SysAdmins](#days-1-2-python-basics-for-sysadmins-1)
+  * [Days 3-4: Python for System Administration](#days-3-4-python-for-system-administration-1)
+  * [Days 5-7: Python Security Tools](#days-5-7-python-security-tools-1)
+- [Week 3: AWS Cloud Fundamentals](#week-3-aws-cloud-fundamentals-1)
+  * [Days 1-2: AWS Core Services + Security](#days-1-2-aws-core-services--security-1)
+  * [Days 3-4: Infrastructure as Code + Automation](#days-3-4-infrastructure-as-code--automation-1)
+  * [Days 5-7: Monitoring and Compliance](#days-5-7-monitoring-and-compliance-1)
+- [Week 4: SQL and Database Security](#week-4-sql-and-database-security-1)
+  * [Days 1-2: SQL Fundamentals](#days-1-2-sql-fundamentals-1)
+  * [Days 3-4: Database Administration + Python Integration](#days-3-4-database-administration--python-integration-1)
+  * [Days 5-7: AWS RDS and Database Security](#days-5-7-aws-rds-and-database-security-1)
+- [Week 5: Go Programming for Infrastructure](#week-5-go-programming-for-infrastructure-1)
+  * [Days 1-2: Go Basics for Systems Programming](#days-1-2-go-basics-for-systems-programming-1)
+  * [Days 3-4: Go Web Services + Security](#days-3-4-go-web-services--security-1)
+  * [Days 5-7: Go + AWS Integration](#days-5-7-go--aws-integration-1)
+- [Week 6: Integration and Real-World Projects](#week-6-integration-and-real-world-projects-1)
+  * [Days 1-2: Complete Infrastructure Deployment](#days-1-2-complete-infrastructure-deployment-1)
+  * [Days 3-4: Monitoring and Alerting System](#days-3-4-monitoring-and-alerting-system-1)
+  * [Days 5-7: Portfolio and Documentation](#days-5-7-portfolio-and-documentation-1)
+- [Expected Outcomes and Next Steps](#expected-outcomes-and-next-steps)
+  * [Technical Skills Achieved](#technical-skills-achieved)
+  * [Career Transition Opportunities](#career-transition-opportunities)
+  * [Recommended Follow-up Learning](#recommended-follow-up-learning)
+
+<!-- tocstop -->
+
 ## 6-Week Technical Transformation Plan with Learning Resources
 
 *From InfoSec Professional to DevOps/Platform Engineer*
@@ -10,16 +76,16 @@
 
 **Free Learning Resources:**
 
-- **Linux Command Line Basics:** https://linuxcommand.org/tlcl.php (The Linux Command Line book - free PDF)
-- **Linux Journey:** https://linuxjourney.com/ (Interactive learning platform)
-- **OverTheWire Bandit:** https://overthewire.org/wargames/bandit/ (Security-focused Linux challenges)
-- **Linux Academy (now A Cloud Guru) Free Tier:** https://acloudguru.com/pricing
-- **edX Linux Introduction:** https://www.edx.org/course/introduction-to-linux (Free audit option)
+- **Linux Command Line Basics:** <https://linuxcommand.org/tlcl.php> (The Linux Command Line book - free PDF)
+- **Linux Journey:** <https://linuxjourney.com/> (Interactive learning platform)
+- **OverTheWire Bandit:** <https://overthewire.org/wargames/bandit/> (Security-focused Linux challenges)
+- **Linux Academy (now A Cloud Guru) Free Tier:** <https://acloudguru.com/pricing>
+- **edX Linux Introduction:** <https://www.edx.org/course/introduction-to-linux> (Free audit option)
 
 **Hands-On Labs:**
 
-- **Katacoda Linux Scenarios:** https://www.katacoda.com/courses/linux (Interactive browser-based labs)
-- **Linux Survival:** https://linuxsurvival.com/ (Basic command tutorial)
+- **Katacoda Linux Scenarios:** <https://www.katacoda.com/courses/linux> (Interactive browser-based labs)
+- **Linux Survival:** <https://linuxsurvival.com/> (Basic command tutorial)
 
 **Core Concepts Practice:**
 
@@ -42,16 +108,16 @@ sudo visudo  # Secure sudo configuration
 
 **Additional Resources:**
 
-- **Linux Security Guide:** https://www.cyberciti.biz/tips/linux-security.html
-- **Linux Hardening Guide:** https://madaidans-insecurities.github.io/guides/linux-hardening.html
+- **Linux Security Guide:** <https://www.cyberciti.biz/tips/linux-security.html>
+- **Linux Hardening Guide:** <https://madaidans-insecurities.github.io/guides/linux-hardening.html>
 
 ### Days 3-4: System Administration + Monitoring
 
 **Free Resources:**
 
-- **Linux System Administration:** https://www.linode.com/docs/guides/linux-system-administration-basics/
-- **SystemD Tutorial:** https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal
-- **Linux Performance Tools:** http://www.brendangregg.com/linuxperf.html
+- **Linux System Administration:** <https://www.linode.com/docs/guides/linux-system-administration-basics/>
+- **SystemD Tutorial:** <https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal>
+- **Linux Performance Tools:** <http://www.brendangregg.com/linuxperf.html>
 
 **Essential Commands Practice:**
 
@@ -70,17 +136,17 @@ fdisk -l
 
 **Package Management Resources:**
 
-- **APT Tutorial:** https://itsfoss.com/apt-command-guide/
-- **YUM/DNF Guide:** https://www.redhat.com/sysadmin/how-manage-packages
+- **APT Tutorial:** <https://itsfoss.com/apt-command-guide/>
+- **YUM/DNF Guide:** <https://www.redhat.com/sysadmin/how-manage-packages>
 
 ### Days 5-7: Bash Scripting Fundamentals
 
 **Free Learning Resources:**
 
-- **Bash Scripting Guide:** https://tldp.org/LDP/abs/html/ (Advanced Bash-Scripting Guide)
-- **ShellCheck:** https://www.shellcheck.net/ (Online bash script validator)
-- **Bash Academy:** https://guide.bash.academy/
-- **Linux Hint Bash Tutorials:** https://linuxhint.com/category/bash/
+- **Bash Scripting Guide:** <https://tldp.org/LDP/abs/html/> (Advanced Bash-Scripting Guide)
+- **ShellCheck:** <https://www.shellcheck.net/> (Online bash script validator)
+- **Bash Academy:** <https://guide.bash.academy/>
+- **Linux Hint Bash Tutorials:** <https://linuxhint.com/category/bash/>
 
 **Security-Focused Scripting:**
 
@@ -110,8 +176,8 @@ check_service nginx
 
 **Practice Platforms:**
 
-- **HackerRank Shell:** https://www.hackerrank.com/domains/shell
-- **Bash Exercises:** https://exercism.org/tracks/bash
+- **HackerRank Shell:** <https://www.hackerrank.com/domains/shell>
+- **Bash Exercises:** <https://exercism.org/tracks/bash>
 
 -----
 
@@ -121,17 +187,17 @@ check_service nginx
 
 **Free Learning Resources:**
 
-- **Python.org Tutorial:** https://docs.python.org/3/tutorial/
-- **Automate the Boring Stuff:** https://automatetheboringstuff.com/ (Free online book)
-- **Real Python:** https://realpython.com/ (Many free articles and tutorials)
-- **Python for Network Engineers:** https://pyneng.readthedocs.io/en/latest/
-- **FreeCodeCamp Python Course:** https://www.freecodecamp.org/learn/scientific-computing-with-python/
+- **Python.org Tutorial:** <https://docs.python.org/3/tutorial/>
+- **Automate the Boring Stuff:** <https://automatetheboringstuff.com/> (Free online book)
+- **Real Python:** <https://realpython.com/> (Many free articles and tutorials)
+- **Python for Network Engineers:** <https://pyneng.readthedocs.io/en/latest/>
+- **FreeCodeCamp Python Course:** <https://www.freecodecamp.org/learn/scientific-computing-with-python/>
 
 **Interactive Learning:**
 
-- **Python.org Online Console:** https://www.python.org/shell/
-- **Repl.it Python:** https://replit.com/languages/python3
-- **Codecademy Python (Free Tier):** https://www.codecademy.com/learn/learn-python-3
+- **Python.org Online Console:** <https://www.python.org/shell/>
+- **Repl.it Python:** <https://replit.com/languages/python3>
+- **Codecademy Python (Free Tier):** <https://www.codecademy.com/learn/learn-python-3>
 
 **Core Python for SysAdmins:**
 
@@ -162,10 +228,10 @@ for ip in failed_logins:
 
 **Free Resources:**
 
-- **Python System Administration:** https://python-guide-pt-br.readthedocs.io/en/latest/scenarios/admin/
-- **Python DevOps Tools:** https://github.com/Leo-G/DevopsWiki/wiki/How-to-use-Python-for-DevOps
-- **PSUtil Documentation:** https://psutil.readthedocs.io/en/latest/
-- **Requests Library Tutorial:** https://requests.readthedocs.io/en/latest/user/quickstart/
+- **Python System Administration:** <https://python-guide-pt-br.readthedocs.io/en/latest/scenarios/admin/>
+- **Python DevOps Tools:** <https://github.com/Leo-G/DevopsWiki/wiki/How-to-use-Python-for-DevOps>
+- **PSUtil Documentation:** <https://psutil.readthedocs.io/en/latest/>
+- **Requests Library Tutorial:** <https://requests.readthedocs.io/en/latest/user/quickstart/>
 
 **Libraries Installation:**
 
@@ -214,10 +280,10 @@ def check_service_status(url):
 
 **Security Programming Resources:**
 
-- **Python Security Guide:** https://python-security.readthedocs.io/
-- **OWASP Python Security:** https://owasp.org/www-project-code-review-guide/assets/OWASP_Code_Review_Guide_v2.pdf
-- **Python Cryptography:** https://cryptography.io/en/latest/
-- **Hashlib Documentation:** https://docs.python.org/3/library/hashlib.html
+- **Python Security Guide:** <https://python-security.readthedocs.io/>
+- **OWASP Python Security:** <https://owasp.org/www-project-code-review-guide/assets/OWASP_Code_Review_Guide_v2.pdf>
+- **Python Cryptography:** <https://cryptography.io/en/latest/>
+- **Hashlib Documentation:** <https://docs.python.org/3/library/hashlib.html>
 
 **Security-Focused Programming:**
 
@@ -256,8 +322,8 @@ def check_ssl_cert(hostname, port=443):
 
 **Ethical Hacking with Python:**
 
-- **Python for Penetration Testing:** https://www.cybrary.it/course/python-for-security-professionals/
-- **Security Tools in Python:** https://github.com/dloss/python-pentest-tools
+- **Python for Penetration Testing:** <https://www.cybrary.it/course/python-for-security-professionals/>
+- **Security Tools in Python:** <https://github.com/dloss/python-pentest-tools>
 
 -----
 
@@ -267,17 +333,17 @@ def check_ssl_cert(hostname, port=443):
 
 **Free AWS Learning Resources:**
 
-- **AWS Free Tier:** https://aws.amazon.com/free/ (12 months free with credit card)
-- **AWS Training and Certification:** https://aws.amazon.com/training/digital/ (Many free courses)
-- **AWS Well-Architected Labs:** https://wellarchitectedlabs.com/ (Hands-on security labs)
-- **AWS Documentation:** https://docs.aws.amazon.com/
-- **A Cloud Guru Free Tier:** https://acloudguru.com/pricing (Limited free content)
+- **AWS Free Tier:** <https://aws.amazon.com/free/> (12 months free with credit card)
+- **AWS Training and Certification:** <https://aws.amazon.com/training/digital/> (Many free courses)
+- **AWS Well-Architected Labs:** <https://wellarchitectedlabs.com/> (Hands-on security labs)
+- **AWS Documentation:** <https://docs.aws.amazon.com/>
+- **A Cloud Guru Free Tier:** <https://acloudguru.com/pricing> (Limited free content)
 
 **Video Tutorials:**
 
-- **FreeCodeCamp AWS Course:** https://www.youtube.com/watch?v=3hLmDS179YE (12-hour comprehensive course)
-- **AWS Official YouTube:** https://www.youtube.com/user/AmazonWebServices
-- **Stephane Maarek AWS Courses:** https://www.youtube.com/c/StephaneMaarek
+- **FreeCodeCamp AWS Course:** <https://www.youtube.com/watch?v=3hLmDS179YE> (12-hour comprehensive course)
+- **AWS Official YouTube:** <https://www.youtube.com/user/AmazonWebServices>
+- **Stephane Maarek AWS Courses:** <https://www.youtube.com/c/StephaneMaarek>
 
 **Essential Services Setup:**
 
@@ -294,17 +360,17 @@ aws configure
 
 **Hands-On Labs:**
 
-- **AWS Hands-On Tutorials:** https://aws.amazon.com/getting-started/hands-on/
-- **AWS Security Labs:** https://github.com/awslabs/aws-security-benchmark
-- **CloudFormation Templates:** https://github.com/awslabs/aws-cloudformation-templates
+- **AWS Hands-On Tutorials:** <https://aws.amazon.com/getting-started/hands-on/>
+- **AWS Security Labs:** <https://github.com/awslabs/aws-security-benchmark>
+- **CloudFormation Templates:** <https://github.com/awslabs/aws-cloudformation-templates>
 
 ### Days 3-4: Infrastructure as Code + Automation
 
 **CloudFormation Resources:**
 
-- **CloudFormation User Guide:** https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/
-- **CloudFormation Templates:** https://aws.amazon.com/cloudformation/templates/
-- **AWS Samples GitHub:** https://github.com/aws-samples
+- **CloudFormation User Guide:** <https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/>
+- **CloudFormation Templates:** <https://aws.amazon.com/cloudformation/templates/>
+- **AWS Samples GitHub:** <https://github.com/aws-samples>
 
 **CloudFormation Example:**
 
@@ -331,8 +397,8 @@ Resources:
 
 **Boto3 Resources:**
 
-- **Boto3 Documentation:** https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
-- **AWS SDK Python Examples:** https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/python
+- **Boto3 Documentation:** <https://boto3.amazonaws.com/v1/documentation/api/latest/index.html>
+- **AWS SDK Python Examples:** <https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/python>
 
 **Python + AWS (Boto3):**
 
@@ -359,15 +425,15 @@ def audit_security_groups():
 
 **CloudWatch Resources:**
 
-- **CloudWatch User Guide:** https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/
-- **AWS Config Rules:** https://docs.aws.amazon.com/config/latest/developerguide/managed-rules-by-aws-config.html
-- **AWS Security Hub:** https://docs.aws.amazon.com/securityhub/latest/userguide/
+- **CloudWatch User Guide:** <https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/>
+- **AWS Config Rules:** <https://docs.aws.amazon.com/config/latest/developerguide/managed-rules-by-aws-config.html>
+- **AWS Security Hub:** <https://docs.aws.amazon.com/securityhub/latest/userguide/>
 
 **Compliance and Security:**
 
-- **AWS Security Best Practices:** https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf
-- **CIS AWS Benchmarks:** https://www.cisecurity.org/benchmark/amazon_web_services
-- **AWS Well-Architected Security Pillar:** https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/wellarchitected-security-pillar.pdf
+- **AWS Security Best Practices:** <https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf>
+- **CIS AWS Benchmarks:** <https://www.cisecurity.org/benchmark/amazon_web_services>
+- **AWS Well-Architected Security Pillar:** <https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/wellarchitected-security-pillar.pdf>
 
 **CloudWatch Monitoring:**
 
@@ -402,17 +468,17 @@ def create_cpu_alarm():
 
 **Free SQL Learning Resources:**
 
-- **W3Schools SQL Tutorial:** https://www.w3schools.com/sql/
-- **SQLBolt Interactive Tutorial:** https://sqlbolt.com/
-- **FreeCodeCamp SQL Course:** https://www.freecodecamp.org/learn/relational-database/
-- **MySQL Tutorial:** https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/
-- **PostgreSQL Tutorial:** https://www.postgresqltutorial.com/
+- **W3Schools SQL Tutorial:** <https://www.w3schools.com/sql/>
+- **SQLBolt Interactive Tutorial:** <https://sqlbolt.com/>
+- **FreeCodeCamp SQL Course:** <https://www.freecodecamp.org/learn/relational-database/>
+- **MySQL Tutorial:** <https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/>
+- **PostgreSQL Tutorial:** <https://www.postgresqltutorial.com/>
 
 **Online SQL Practice:**
 
-- **HackerRank SQL:** https://www.hackerrank.com/domains/sql
-- **LeetCode Database:** https://leetcode.com/problemset/database/
-- **SQLiteOnline:** https://sqliteonline.com/ (Practice SQL online)
+- **HackerRank SQL:** <https://www.hackerrank.com/domains/sql>
+- **LeetCode Database:** <https://leetcode.com/problemset/database/>
+- **SQLiteOnline:** <https://sqliteonline.com/> (Practice SQL online)
 
 **Basic Security-Focused SQL:**
 
@@ -443,14 +509,14 @@ ORDER BY failed_attempts DESC;
 
 **Database Security Resources:**
 
-- **MySQL Security Guide:** https://dev.mysql.com/doc/refman/8.0/en/security-guidelines.html
-- **PostgreSQL Security:** https://www.postgresql.org/docs/current/security.html
-- **Database Security Checklist:** https://owasp.org/www-project-database-security/
+- **MySQL Security Guide:** <https://dev.mysql.com/doc/refman/8.0/en/security-guidelines.html>
+- **PostgreSQL Security:** <https://www.postgresql.org/docs/current/security.html>
+- **Database Security Checklist:** <https://owasp.org/www-project-database-security/>
 
 **Installation Guides:**
 
-- **MySQL Installation:** https://dev.mysql.com/doc/mysql-installation-excerpt/8.0/en/
-- **PostgreSQL Installation:** https://www.postgresql.org/download/
+- **MySQL Installation:** <https://dev.mysql.com/doc/mysql-installation-excerpt/8.0/en/>
+- **PostgreSQL Installation:** <https://www.postgresql.org/download/>
 
 **Database Security Implementation:**
 
@@ -479,21 +545,21 @@ DELIMITER ;
 
 **Python Database Libraries:**
 
-- **MySQL Connector:** https://dev.mysql.com/doc/connector-python/en/
-- **PyMySQL:** https://pymysql.readthedocs.io/en/latest/
-- **Psycopg2 (PostgreSQL):** https://www.psycopg.org/docs/
+- **MySQL Connector:** <https://dev.mysql.com/doc/connector-python/en/>
+- **PyMySQL:** <https://pymysql.readthedocs.io/en/latest/>
+- **Psycopg2 (PostgreSQL):** <https://www.psycopg.org/docs/>
 
 ### Days 5-7: AWS RDS and Database Security
 
 **RDS Resources:**
 
-- **Amazon RDS User Guide:** https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/
-- **RDS Security Best Practices:** https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.Security.html
-- **Database Migration Service:** https://docs.aws.amazon.com/dms/latest/userguide/
+- **Amazon RDS User Guide:** <https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/>
+- **RDS Security Best Practices:** <https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.Security.html>
+- **Database Migration Service:** <https://docs.aws.amazon.com/dms/latest/userguide/>
 
 **RDS Security Lab:**
 
-- **AWS RDS Security Lab:** https://wellarchitectedlabs.com/security/200_labs/200_automated_deployment_of_detective_controls/
+- **AWS RDS Security Lab:** <https://wellarchitectedlabs.com/security/200_labs/200_automated_deployment_of_detective_controls/>
 
 -----
 
@@ -503,21 +569,21 @@ DELIMITER ;
 
 **Free Go Learning Resources:**
 
-- **Tour of Go:** https://tour.golang.org/ (Official interactive tutorial)
-- **Go by Example:** https://gobyexample.com/ (Practical examples)
-- **Effective Go:** https://golang.org/doc/effective_go.html (Best practices)
-- **Go Documentation:** https://golang.org/doc/
-- **FreeCodeCamp Go Course:** https://www.youtube.com/watch?v=YS4e4q9oBaU
+- **Tour of Go:** <https://tour.golang.org/> (Official interactive tutorial)
+- **Go by Example:** <https://gobyexample.com/> (Practical examples)
+- **Effective Go:** <https://golang.org/doc/effective_go.html> (Best practices)
+- **Go Documentation:** <https://golang.org/doc/>
+- **FreeCodeCamp Go Course:** <https://www.youtube.com/watch?v=YS4e4q9oBaU>
 
 **Interactive Learning:**
 
-- **Go Playground:** https://play.golang.org/ (Online Go compiler)
-- **Exercism Go Track:** https://exercism.org/tracks/go
-- **Codewars Go:** https://www.codewars.com/?language=go
+- **Go Playground:** <https://play.golang.org/> (Online Go compiler)
+- **Exercism Go Track:** <https://exercism.org/tracks/go>
+- **Codewars Go:** <https://www.codewars.com/?language=go>
 
 **Installation:**
 
-- **Go Installation Guide:** https://golang.org/doc/install
+- **Go Installation Guide:** <https://golang.org/doc/install>
 
 **Go Systems Programming:**
 
@@ -566,16 +632,16 @@ func checkSystemStatus() SystemStatus {
 
 **Go Web Development Resources:**
 
-- **Building Web Apps with Go:** https://codegangsta.gitbooks.io/building-web-apps-with-go/content/
-- **Go Web Examples:** https://gowebexamples.com/
-- **Gorilla Mux:** https://github.com/gorilla/mux (HTTP router)
-- **JWT Go:** https://github.com/golang-jwt/jwt
+- **Building Web Apps with Go:** <https://codegangsta.gitbooks.io/building-web-apps-with-go/content/>
+- **Go Web Examples:** <https://gowebexamples.com/>
+- **Gorilla Mux:** <https://github.com/gorilla/mux> (HTTP router)
+- **JWT Go:** <https://github.com/golang-jwt/jwt>
 
 **Security Libraries:**
 
-- **Bcrypt:** https://pkg.go.dev/golang.org/x/crypto/bcrypt
-- **CSRF Protection:** https://github.com/gorilla/csrf
-- **Secure:** https://github.com/unrolled/secure
+- **Bcrypt:** <https://pkg.go.dev/golang.org/x/crypto/bcrypt>
+- **CSRF Protection:** <https://github.com/gorilla/csrf>
+- **Secure:** <https://github.com/unrolled/secure>
 
 **REST API with Security:**
 
@@ -640,9 +706,9 @@ func main() {
 
 **AWS SDK for Go:**
 
-- **AWS SDK Go V2:** https://aws.github.io/aws-sdk-go-v2/docs/
-- **AWS Go Examples:** https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/gov2
-- **AWS Lambda Go:** https://docs.aws.amazon.com/lambda/latest/dg/lambda-golang.html
+- **AWS SDK Go V2:** <https://aws.github.io/aws-sdk-go-v2/docs/>
+- **AWS Go Examples:** <https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/gov2>
+- **AWS Lambda Go:** <https://docs.aws.amazon.com/lambda/latest/dg/lambda-golang.html>
 
 **Go AWS Libraries:**
 
@@ -713,15 +779,15 @@ func (am *AWSMonitor) CheckInstanceSecurity() error {
 
 **DevOps Project Resources:**
 
-- **DevOps Roadmap:** https://roadmap.sh/devops
-- **12-Factor App:** https://12factor.net/
-- **Infrastructure as Code Patterns:** https://infrastructure-as-code.com/
+- **DevOps Roadmap:** <https://roadmap.sh/devops>
+- **12-Factor App:** <https://12factor.net/>
+- **Infrastructure as Code Patterns:** <https://infrastructure-as-code.com/>
 
 **Container Resources:**
 
-- **Docker Getting Started:** https://docs.docker.com/get-started/
-- **Docker Hub:** https://hub.docker.com/ (Free container registry)
-- **Podman Tutorial:** https://podman.io/getting-started/
+- **Docker Getting Started:** <https://docs.docker.com/get-started/>
+- **Docker Hub:** <https://hub.docker.com/> (Free container registry)
+- **Podman Tutorial:** <https://podman.io/getting-started/>
 
 **Project: Secure Web Application Stack:**
 
@@ -757,70 +823,69 @@ python3 setup_monitoring.py
 
 **Monitoring Resources:**
 
-- **Prometheus Getting Started:** https://prometheus.io/docs/prometheus/latest/getting_started/
-- **Grafana Tutorials:** https://grafana.com/tutorials/
-- **Node Exporter:** https://github.com/prometheus/node_exporter
-- **Alertmanager:** https://prometheus.io/docs/alerting/latest/alertmanager/
+- **Prometheus Getting Started:** <https://prometheus.io/docs/prometheus/latest/getting_started/>
+- **Grafana Tutorials:** <https://grafana.com/tutorials/>
+- **Node Exporter:** <https://github.com/prometheus/node_exporter>
+- **Alertmanager:** <https://prometheus.io/docs/alerting/latest/alertmanager/>
 
 **Free Monitoring Tools:**
 
-- **Zabbix:** https://www.zabbix.com/ (Open source monitoring)
-- **Nagios Core:** https://www.nagios.org/projects/nagios-core/
-- **Icinga:** https://icinga.com/ (Open source monitoring)
+- **Zabbix:** <https://www.zabbix.com/> (Open source monitoring)
+- **Nagios Core:** <https://www.nagios.org/projects/nagios-core/>
+- **Icinga:** <https://icinga.com/> (Open source monitoring)
 
 ### Days 5-7: Portfolio and Documentation
 
 **Documentation Resources:**
 
-- **GitBook:** https://www.gitbook.com/ (Free documentation hosting)
-- **GitHub Pages:** https://pages.github.com/ (Free static site hosting)
-- **MkDocs:** https://www.mkdocs.org/ (Static documentation generator)
-- **Draw.io:** https://app.diagrams.net/ (Free architecture diagrams)
+- **GitBook:** <https://www.gitbook.com/> (Free documentation hosting)
+- **GitHub Pages:** <https://pages.github.com/> (Free static site hosting)
+- **MkDocs:** <https://www.mkdocs.org/> (Static documentation generator)
+- **Draw.io:** <https://app.diagrams.net/> (Free architecture diagrams)
 
 **Portfolio Hosting:**
 
-- **GitHub:** https://github.com/ (Free repository hosting)
-- **GitLab:** https://gitlab.com/ (Free CI/CD and hosting)
-- **Netlify:** https://www.netlify.com/ (Free static site hosting)
+- **GitHub:** <https://github.com/> (Free repository hosting)
+- **GitLab:** <https://gitlab.com/> (Free CI/CD and hosting)
+- **Netlify:** <https://www.netlify.com/> (Free static site hosting)
 
 -----
 
 ## Additional Free Resources
 
-### General DevOps Learning:
+### General DevOps Learning
 
-- **DevOps Institute:** https://devopsinstitute.com/resources/ (Free resources)
-- **CNCF Landscape:** https://landscape.cncf.io/ (Cloud native technologies overview)
-- **Linux Foundation Training:** https://training.linuxfoundation.org/resources/ (Free courses)
+- **DevOps Institute:** <https://devopsinstitute.com/resources/> (Free resources)
+- **CNCF Landscape:** <https://landscape.cncf.io/> (Cloud native technologies overview)
+- **Linux Foundation Training:** <https://training.linuxfoundation.org/resources/> (Free courses)
 
-### Security-Focused DevOps:
+### Security-Focused DevOps
 
-- **OWASP DevSecOps Guideline:** https://owasp.org/www-project-devsecops-guideline/
-- **NIST Cybersecurity Framework:** https://www.nist.gov/cyberframework
-- **CIS Controls:** https://www.cisecurity.org/controls/
+- **OWASP DevSecOps Guideline:** <https://owasp.org/www-project-devsecops-guideline/>
+- **NIST Cybersecurity Framework:** <https://www.nist.gov/cyberframework>
+- **CIS Controls:** <https://www.cisecurity.org/controls/>
 
-### Practice Platforms:
+### Practice Platforms
 
-- **TryHackMe:** https://tryhackme.com/ (Security challenges with DevOps content)
-- **KodeKloud:** https://kodekloud.com/ (Hands-on DevOps labs - some free content)
-- **Katacoda:** https://www.katacoda.com/ (Interactive learning scenarios)
+- **TryHackMe:** <https://tryhackme.com/> (Security challenges with DevOps content)
+- **KodeKloud:** <https://kodekloud.com/> (Hands-on DevOps labs - some free content)
+- **Katacoda:** <https://www.katacoda.com/> (Interactive learning scenarios)
 
-### Community Resources:
+### Community Resources
 
-- **r/devops:** https://www.reddit.com/r/devops/
-- **DevOps Chat:** https://devopschat.co/
-- **Stack Overflow:** https://stackoverflow.com/ (Q&A for technical issues)
-- **Dev.to:** https://dev.to/ (Developer community with DevOps content)
+- **r/devops:** <https://www.reddit.com/r/devops/>
+- **DevOps Chat:** <https://devopschat.co/>
+- **Stack Overflow:** <https://stackoverflow.com/> (Q&A for technical issues)
+- **Dev.to:** <https://dev.to/> (Developer community with DevOps content)
 
-### YouTube Channels:
+### YouTube Channels
 
-- **TechWorld with Nana:** https://www.youtube.com/c/TechWorldwithNana
-- **DevOps Journey:** https://www.youtube.com/c/DevOpsJourney
-- **Cloud Advocate:** https://www.youtube.com/c/CloudAdvocate
-- **NetworkChuck:** https://www.youtube.com/c/NetworkChuck
+- **TechWorld with Nana:** <https://www.youtube.com/c/TechWorldwithNana>
+- **DevOps Journey:** <https://www.youtube.com/c/DevOpsJourney>
+- **Cloud Advocate:** <https://www.youtube.com/c/CloudAdvocate>
+- **NetworkChuck:** <https://www.youtube.com/c/NetworkChuck>
 
 This comprehensive resource list provides you with everything needed to complete the 6-week transformation program without spending money on courses or training materials. All resources are freely available and will provide hands-on experience with real-world tools and technologies.​​​​​​​​​​​​​​​​
-
 
 ## 6-Week Technical Transformation Plan
 
@@ -1580,7 +1645,7 @@ if __name__ == "__main__":
 
 ## Expected Outcomes and Next Steps
 
-### Technical Skills Achieved:
+### Technical Skills Achieved
 
 - **Linux Administration:** Intermediate level with security focus
 - **Python Programming:** Intermediate for automation and APIs
@@ -1589,7 +1654,7 @@ if __name__ == "__main__":
 - **AWS Cloud:** Foundational understanding with security emphasis
 - **SQL:** Basic-to-intermediate with security considerations
 
-### Career Transition Opportunities:
+### Career Transition Opportunities
 
 **Immediate Targets (0-6 months):**
 
@@ -1605,7 +1670,7 @@ if __name__ == "__main__":
 - **Security Automation Engineer:** $105k - $140k
 - **Platform Engineer:** $110k - $145k
 
-### Recommended Follow-up Learning:
+### Recommended Follow-up Learning
 
 1. **Container Technologies:** Docker, Kubernetes
 2. **Infrastructure as Code:** Terraform, Ansible

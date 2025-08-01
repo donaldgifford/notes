@@ -1,5 +1,29 @@
 # 5 Year Resources
 
+<!-- toc -->
+
+- [Free Online Resources for Experience-Based Learning Guides](#free-online-resources-for-experience-based-learning-guides)
+- [Resources for 5-Year Experience Developer Guide](#resources-for-5-year-experience-developer-guide)
+  * [Week 1: Cloud-Native Foundation](#week-1-cloud-native-foundation)
+  * [Week 2: Golang Depth + Observability](#week-2-golang-depth--observability)
+  * [Week 3: Rust Fundamentals + Systems Programming](#week-3-rust-fundamentals--systems-programming)
+  * [Week 4: JavaScript/TypeScript Foundation](#week-4-javascripttypescript-foundation)
+  * [Week 5: Platform Engineering + AI Integration](#week-5-platform-engineering--ai-integration)
+  * [Week 6: Integration + Portfolio](#week-6-integration--portfolio)
+- [Shared Resources](#shared-resources)
+  * [General DevOps and Platform Engineering](#general-devops-and-platform-engineering)
+  * [Practice Platforms](#practice-platforms)
+  * [Cloud Provider Free Tiers](#cloud-provider-free-tiers)
+  * [Documentation and References](#documentation-and-references)
+  * [YouTube Channels](#youtube-channels)
+  * [Community Resources](#community-resources)
+  * [Architecture and System Design](#architecture-and-system-design)
+  * [Security Resources](#security-resources)
+  * [Performance and Monitoring](#performance-and-monitoring)
+  * [Career Development](#career-development)
+
+<!-- tocstop -->
+
 ## Free Online Resources for Experience-Based Learning Guides
 
 ## Resources for 5-Year Experience Developer Guide

@@ -1,5 +1,21 @@
 # 15 Year Pay
 
+<!-- toc -->
+
+- [Current Market Salary Ranges (Before Training)](#current-market-salary-ranges-before-training)
+  * [15-Year Experience Profile](#15-year-experience-profile)
+- [Post-Training Salary Potential (After 6 weeks + 6-12 months experience)](#post-training-salary-potential-after-6-weeks--6-12-months-experience)
+  * [15-Year Profile → Principal/Staff Roles](#15-year-profile-%E2%86%92-principalstaff-roles)
+- [Key Factors Driving the Increases](#key-factors-driving-the-increases)
+  * [For 15-Year Experience](#for-15-year-experience)
+- [Timeline for Salary Realization](#timeline-for-salary-realization)
+  * [Immediate (0-3 months post-training)](#immediate-0-3-months-post-training)
+  * [Short-term (6-12 months)](#short-term-6-12-months)
+  * [Medium-term (1-2 years)](#medium-term-1-2-years)
+- [Market Context & Timing](#market-context--timing)
+
+<!-- tocstop -->
+
 ## Current Market Salary Ranges (Before Training)
 
 ### 15-Year Experience Profile
@@ -44,7 +60,7 @@
 
 ## Key Factors Driving the Increases
 
-### For 15-Year Experience:
+### For 15-Year Experience
 
 1. **Modern Technology Leadership** - Ability to guide technical decisions
 2. **AI/Platform Engineering Expertise** - High-demand, low-supply skills
@@ -55,15 +71,15 @@
 
 ## Timeline for Salary Realization
 
-### Immediate (0-3 months post-training):
+### Immediate (0-3 months post-training)
 
 - **15-year profile:** +$10k - $20k (internal role expansion)
 
-### Short-term (6-12 months):
+### Short-term (6-12 months)
 
 - **15-year profile:** +$25k - $45k (leading platform initiatives)
 
-### Medium-term (1-2 years):
+### Medium-term (1-2 years)
 
 - **15-year profile:** +$50k - $100k (principal/distinguished track)
 

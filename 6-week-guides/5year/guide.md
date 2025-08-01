@@ -1,5 +1,23 @@
 # 5 Year Guide
 
+<!-- toc -->
+
+- [1. Most Important Non-Coding Technologies for 2025](#1-most-important-non-coding-technologies-for-2025)
+- [2. Specific Language Focuses](#2-specific-language-focuses)
+- [3. Six-Week Learning Plan](#3-six-week-learning-plan)
+  * [Week 1: Cloud-Native Foundation](#week-1-cloud-native-foundation)
+  * [Week 2: Golang Depth + Observability](#week-2-golang-depth--observability)
+  * [Week 3: Rust Fundamentals + Systems Programming](#week-3-rust-fundamentals--systems-programming)
+  * [Week 4: JavaScript/TypeScript Foundation + Rust Async](#week-4-javascripttypescript-foundation--rust-async)
+  * [Week 5: Advanced Rust + Platform Engineering](#week-5-advanced-rust--platform-engineering)
+  * [Week 6: Integration Project + Portfolio](#week-6-integration-project--portfolio)
+- [Rust-Specific Learning Path](#rust-specific-learning-path)
+- [Key Learning Resources](#key-learning-resources)
+- [Portfolio Projects to Highlight](#portfolio-projects-to-highlight)
+- [Why This Rust Focus Makes Sense](#why-this-rust-focus-makes-sense)
+
+<!-- tocstop -->
+
 ## 1. Most Important Non-Coding Technologies for 2025
 
 **Cloud-Native Maturity (build on your AWS foundation)**
@@ -175,7 +193,7 @@
 - Document performance comparisons between Go and Rust services
 - Prepare case studies highlighting when to choose each language
 
-## Rust-Specific Learning Path:
+## Rust-Specific Learning Path
 
 **Week 3 Deep Dive:**
 
@@ -194,7 +212,7 @@
 - Implement proper graceful shutdown
 - Add metrics and health check endpoints
 
-## Key Learning Resources:
+## Key Learning Resources
 
 - **Rust**: “The Rust Programming Language” (official book), “Zero to Production in Rust”
 - **Go**: “Effective Go” documentation, “Let’s Go” by Alex Edwards
@@ -202,7 +220,7 @@
 - **Kubernetes**: “Kubernetes Up & Running”, CNCF landscape exploration
 - **AWS**: Well-Architected Framework, re:Invent sessions
 
-## Portfolio Projects to Highlight:
+## Portfolio Projects to Highlight
 
 1. **Multi-language microservices** (Go for business logic, Rust for high-performance components)
 2. **Performance comparison study** showing when to choose Rust vs Go
@@ -210,7 +228,7 @@
 4. **Complete CI/CD pipeline** with proper Rust tooling and cross-compilation
 5. **Infrastructure as Code** using AWS CDK with proper state management
 
-## Why This Rust Focus Makes Sense:
+## Why This Rust Focus Makes Sense
 
 - **Performance-critical services** - Rust excels where Go might hit limits
 - **Memory safety** - increasingly important for security-conscious organizations

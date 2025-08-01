@@ -1,5 +1,29 @@
 # 15 Year Resources
 
+<!-- toc -->
+
+- [Free Online Resources for Experience-Based Learning Guides](#free-online-resources-for-experience-based-learning-guides)
+- [Resources for 15-Year Experience Developer Guide](#resources-for-15-year-experience-developer-guide)
+  * [Week 1: Linux Fundamentals + Cloud-Native Foundation](#week-1-linux-fundamentals--cloud-native-foundation)
+  * [Week 2: Golang Advanced + Platform Engineering](#week-2-golang-advanced--platform-engineering)
+  * [Week 3: Rust Advanced + Systems](#week-3-rust-advanced--systems)
+  * [Week 4: JavaScript/TypeScript + Modern Web APIs](#week-4-javascripttypescript--modern-web-apis)
+  * [Week 5: AI/ML Infrastructure Integration](#week-5-aiml-infrastructure-integration)
+  * [Week 6: Integration + Portfolio](#week-6-integration--portfolio)
+- [Shared Resources](#shared-resources)
+  * [General DevOps and Platform Engineering](#general-devops-and-platform-engineering)
+  * [Practice Platforms](#practice-platforms)
+  * [Cloud Provider Free Tiers](#cloud-provider-free-tiers)
+  * [Documentation and References](#documentation-and-references)
+  * [YouTube Channels](#youtube-channels)
+  * [Community Resources](#community-resources)
+  * [Architecture and System Design](#architecture-and-system-design)
+  * [Security Resources](#security-resources)
+  * [Performance and Monitoring](#performance-and-monitoring)
+  * [Career Development](#career-development)
+
+<!-- tocstop -->
+
 ## Free Online Resources for Experience-Based Learning Guides
 
 ## Resources for 15-Year Experience Developer Guide
